@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-image: url("https://wallpaperforu.com/wp-content/uploads/2021/08/Wallpaper-Birds-Near-Sea-Digital-Wallpaper-Sea-Anemones4-1536x864.jpg");
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.nav {
+  display: flex;
+
+  color: white;
+  padding: 20px;
+  background-color: #4b89bf;
+  padding-right: 75%;
+}
+.nb {
+  padding-left: 200%;
+}
+.nav button {
+  background-color: #4b89bf;
+  padding: 10px;
+  color: white;
+}
+
+.nav button:hover {
+  background-color: #013669;
+}

@@ -1,0 +1,38 @@
+h1 {
+  padding-right: 290%;
+}
+
+.container {
+  align-items: center;
+  padding-left: 30%;
+  margin-top: 50px;
+}
+
+.data {
+  background-color: #e5fcff;
+  width: 400px;
+  height: 250px;
+  padding: 20px;
+  margin: 40px;
+}
+.data img {
+  width: 100px;
+  margin-top: 10px;
+  height: 130px;
+  border-radius: 50%;
+  border: 5px solid white;
+}
+
+.data h3 {
+  color: #022754;
+  margin-top: 5px;
+}
+.data h2 {
+  color: #022754;
+  padding: 10px;
+}
+
+.data:hover {
+  background-color: #4b89bf;
+  border: 5px solid white;
+}
